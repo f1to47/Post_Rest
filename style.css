@@ -1,5 +1,8 @@
+body{background-color: #eee; color: #666}
+.container{background-color: #fff; display: flex;}
 .comentario{border-bottom: solid 1px #333; width: 100%; margin-top: 2px }
 .usuario{border-bottom: dotted 1px #333; width: 100%; margin-top: 2px }
 #bodybar, #sidebar{float: left; min-height: 300px; padding: 20px;}
 #bodybar{width: 70%}
+h2{color: #f90}
 #sidebar{width: 30%; border-left: #333 solid 1px}
